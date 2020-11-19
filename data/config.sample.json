@@ -1,0 +1,7 @@
+{
+    "botname": "telepyd",
+    "logging": true,
+    "token": "123456789:ABCDEFGHIJKLMNOPQRSTUVQXYZabcdefghijk",
+
+    "database": "data/bot.dda"
+}
