@@ -4,7 +4,7 @@ An easy-to-use bot for telegram based on [python-droit](https://github.com/jarin
 Customize your bot using the Droit Database Script - question-to-answer rules are defined that simple:
 
 ```
-TELE*cmd!start->Welcome to the telepyd bot.
+TELE*cmd!start->TEXT!Welcome to the telepyd bot.
 SRTX!how are you->TEXT!I'm fine.
 ```
 The integrated telegram-plugins make it possible to display `InlineKeyboards`.  
